@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there! 👋 I'm Amanda. 
 
-<!--
-**thatgyaliggy/thatgyaliggy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I am a former Critical Care Nurse turned Fullstack Developer.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on revamping my portfolio website
+- 🌱 I’m currently learning React.js
+- 👯 I’m looking to collaborate on open source projects
+- 🤔 I’m looking for help with finding a junior role as a new developer
+- 💬 Ask me about being an engineer with a non-traditional background
+- 📫 How to reach me: amandani1193@gmail.com
+- 😄 Pronouns: she/they
+- ⚡ Fun fact: I love to dance! I am always looking to learn new dances
+
+#### Current Languages:
+
+
+#### Connect with me:
+
