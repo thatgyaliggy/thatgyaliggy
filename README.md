@@ -12,8 +12,8 @@
 - 😄 Pronouns: she/they
 - ⚡ Fun fact: I love to dance! I am always looking to learn new dances
 
-#### Current Languages:
-
+#### Current Skills:
+HTML | CSS | JavaScript | Node.JS | REST APIs | SQL | Kubernetes | Docker
 
 #### Connect with me:
 
